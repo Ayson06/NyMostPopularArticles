@@ -1,0 +1,906 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [{
+        "uri": "nyt://article/9b034326-2da1-55b3-94cc-68bd693d05ae",
+        "url": "https://www.nytimes.com/2023/04/26/business/media/tucker-carlson-dominion-fox-news.html",
+        "id": 100000008874473,
+        "asset_id": 100000008874473,
+        "source": "New York Times",
+        "published_date": "2023-04-26",
+        "updated": "2023-04-28 15:27:38",
+        "section": "Business",
+        "subsection": "Media",
+        "nytdsection": "business",
+        "adx_keywords": "Boards of Directors;Television;News and News Media;Text Messaging;Libel and Slander;Suits and Litigation (Civil);Workplace Hazards and Violations;internal-sub-only;Carlson, Tucker;Murdoch, Lachlan;Murdoch, Rupert;Grossberg, Abby;Fox News Channel;Dominion Voting Systems Corp;Smartmatic SGO Group",
+        "column": null,
+        "byline": "By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt",
+        "type": "Article",
+        "title": "On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox",
+        "abstract": "Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.",
+        "des_facet": ["Boards of Directors", "Television", "News and News Media", "Text Messaging", "Libel and Slander", "Suits and Litigation (Civil)", "Workplace Hazards and Violations", "internal-sub-only"],
+        "org_facet": ["Fox News Channel", "Dominion Voting Systems Corp", "Smartmatic SGO Group"],
+        "per_facet": ["Carlson, Tucker", "Murdoch, Lachlan", "Murdoch, Rupert", "Grossberg, Abby"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The discovery of the texts added pressure on the Fox leadership as it sought to find a way to avoid a trial in the Dominion defamation lawsuit.",
+            "copyright": "Rebecca Noble for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26fox-tucker-tmhl/26fox-tucker-tmhl-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/1222a343-a7ec-5850-9b72-fef4687b43fd",
+        "url": "https://www.nytimes.com/2023/04/24/business/media/don-lemon-cnn.html",
+        "id": 100000008872080,
+        "asset_id": 100000008872080,
+        "source": "New York Times",
+        "published_date": "2023-04-24",
+        "updated": "2023-04-24 23:36:25",
+        "section": "Business",
+        "subsection": "Media",
+        "nytdsection": "business",
+        "adx_keywords": "Television;News and News Media;Appointments and Executive Changes;Lemon, Don;Harlow, Poppy;Collins, Kaitlan;Licht, Christopher A (1971- );CNN",
+        "column": null,
+        "byline": "By Michael M. Grynbaum, John Koblin and Benjamin Mullin",
+        "type": "Article",
+        "title": "Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’",
+        "abstract": "Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.",
+        "des_facet": ["Television", "News and News Media", "Appointments and Executive Changes"],
+        "org_facet": ["CNN"],
+        "per_facet": ["Lemon, Don", "Harlow, Poppy", "Collins, Kaitlan", "Licht, Christopher A (1971- )"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Don Lemon during a Democratic presidential primary debate in 2019. He had a reputation as a fiery political commentator at CNN.",
+            "copyright": "Erin Schaff/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/e4d61915-b6e8-542f-8310-71386ad23241",
+        "url": "https://www.nytimes.com/2023/04/20/business/facebook-settlement-apply.html",
+        "id": 100000008867462,
+        "asset_id": 100000008867462,
+        "source": "New York Times",
+        "published_date": "2023-04-20",
+        "updated": "2023-04-21 11:44:16",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Social Media;Suits and Litigation (Civil);Computers and the Internet;Compensation for Damages (Law);Privacy;Cambridge Analytica;Facebook Inc;Meta Platforms Inc;California;United States",
+        "column": null,
+        "byline": "By Jenny Gross",
+        "type": "Article",
+        "title": "How to Claim Your Share of Facebook’s $725 Million Privacy Settlement",
+        "abstract": "Anyone who had a U.S. Facebook account between May 2007 and December 2022 is eligible to apply, though payouts are likely to be small.",
+        "des_facet": ["Social Media", "Suits and Litigation (Civil)", "Computers and the Internet", "Compensation for Damages (Law)", "Privacy"],
+        "org_facet": ["Cambridge Analytica", "Facebook Inc", "Meta Platforms Inc"],
+        "per_facet": [],
+        "geo_facet": ["California", "United States"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The offices of Meta, Facebook’s parent company, in Menlo Park, Calif., in 2022.",
+            "copyright": "Jim Wilson/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/769ff87f-1e24-57c2-b60a-dbe000ace662",
+        "url": "https://www.nytimes.com/2023/04/27/arts/television/jerry-springer-dead.html",
+        "id": 100000008877849,
+        "asset_id": 100000008877849,
+        "source": "New York Times",
+        "published_date": "2023-04-27",
+        "updated": "2023-04-28 01:19:39",
+        "section": "Arts",
+        "subsection": "Television",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Television;Mayors;Politics and Government;Springer, Jerry;Cincinnati (Ohio)",
+        "column": null,
+        "byline": "By Neil Genzlinger",
+        "type": "Article",
+        "title": "Jerry Springer, Host of a Raucous TV Talk Show, Is Dead at 79",
+        "abstract": "The confrontational “Jerry Springer Show” ran for nearly three decades and became a cultural phenomenon. Mr. Springer also had a career in politics.",
+        "des_facet": ["Deaths (Obituaries)", "Television", "Mayors", "Politics and Government"],
+        "org_facet": [],
+        "per_facet": ["Springer, Jerry"],
+        "geo_facet": ["Cincinnati (Ohio)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. Springer in 1998 on the set of his talk show. That year his viewership peaked at about eight million.",
+            "copyright": "Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/27xp-springer-print4/27xp-springer-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/27xp-springer-print4/27xp-springer-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/27xp-springer-print4/27xp-springer-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/b9843a35-6db8-5895-b0c5-f9a6c63529b7",
+        "url": "https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news-dismissal.html",
+        "id": 100000008872355,
+        "asset_id": 100000008872355,
+        "source": "New York Times",
+        "published_date": "2023-04-24",
+        "updated": "2023-04-25 09:30:56",
+        "section": "Business",
+        "subsection": "Media",
+        "nytdsection": "business",
+        "adx_keywords": "News and News Media;Cable Television;Appointments and Executive Changes;Carlson, Tucker;Murdoch, Rupert;Murdoch, Lachlan;Scott, Suzanne;Fox News Channel;Fox Corporation",
+        "column": null,
+        "byline": "By Jeremy W. Peters, Katie Robertson and Michael M. Grynbaum",
+        "type": "Article",
+        "title": "Tucker Carlson, a Source of Repeated Controversies, Is Out at Fox News",
+        "abstract": "Mr. Carlson has been one of the network’s top-rated hosts for many years.",
+        "des_facet": ["News and News Media", "Cable Television", "Appointments and Executive Changes"],
+        "org_facet": ["Fox News Channel", "Fox Corporation"],
+        "per_facet": ["Carlson, Tucker", "Murdoch, Rupert", "Murdoch, Lachlan", "Scott, Suzanne"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tucker Carlson’s announcement was made less than a week after Fox settled a defamation suit for $787.5 million.",
+            "copyright": "Rebecca Noble for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/e2dee711-7e0f-5ae2-8a3a-669c8a017e07",
+        "url": "https://www.nytimes.com/2023/04/27/sports/football/nfl-draft-picks-first-round-results.html",
+        "id": 100000008875890,
+        "asset_id": 100000008875890,
+        "source": "New York Times",
+        "published_date": "2023-04-27",
+        "updated": "2023-04-28 14:54:45",
+        "section": "Sports",
+        "subsection": "N.F.L.",
+        "nytdsection": "sports",
+        "adx_keywords": "Football;Draft and Recruitment (Sports);Trades (Sports);National Football League;Arizona Cardinals;Buffalo Bills;Carolina Panthers;Chicago Bears;Cleveland Browns;Denver Broncos;Detroit Lions;Green Bay Packers;Houston Texans;Jacksonville Jaguars;Kansas City Chiefs;Los Angeles Rams;Miami Dolphins;New England Patriots;New Orleans Saints;New York Giants;New York Jets;Philadelphia Eagles;Pittsburgh Steelers;San Francisco 49ers;Seattle Seahawks",
+        "column": null,
+        "byline": "By The New York Times",
+        "type": "Article",
+        "title": "N.F.L. Draft Picks 2023: All the Results From the First Round",
+        "abstract": "The Carolina Panthers selected Bryce Young, the Alabama quarterback, at No. 1 overall. Other teams shook up the top 10 with trades. Here’s a full list of the results from the first round on Thursday.",
+        "des_facet": ["Football", "Draft and Recruitment (Sports)", "Trades (Sports)"],
+        "org_facet": ["National Football League", "Arizona Cardinals", "Buffalo Bills", "Carolina Panthers", "Chicago Bears", "Cleveland Browns", "Denver Broncos", "Detroit Lions", "Green Bay Packers", "Houston Texans", "Jacksonville Jaguars", "Kansas City Chiefs", "Los Angeles Rams", "Miami Dolphins", "New England Patriots", "New Orleans Saints", "New York Giants", "New York Jets", "Philadelphia Eagles", "Pittsburgh Steelers", "San Francisco 49ers", "Seattle Seahawks"],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Bryce Young was the top overall pick by the Carolina Panthers as Round 1 of the N.F.L. draft played out on Thursday night.",
+            "copyright": "David Eulitt/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/27/multimedia/27nfl-draft-tracker-zpcq/27nfl-draft-tracker-zpcq-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/27/multimedia/27nfl-draft-tracker-zpcq/27nfl-draft-tracker-zpcq-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/27/multimedia/27nfl-draft-tracker-zpcq/27nfl-draft-tracker-zpcq-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/7f71da13-d6cd-5c6c-9d3c-685712043353",
+        "url": "https://www.nytimes.com/2023/04/25/arts/music/harry-belafonte-dead.html",
+        "id": 100000006678132,
+        "asset_id": 100000006678132,
+        "source": "New York Times",
+        "published_date": "2023-04-25",
+        "updated": "2023-04-26 11:36:38",
+        "section": "Arts",
+        "subsection": "Music",
+        "nytdsection": "arts",
+        "adx_keywords": "Folk Music;Pop and Rock Music;Black People;Race and Ethnicity;Movies;Actors and Actresses;Civil Rights Movement (1954-68);Deaths (Obituaries);Belafonte, Harry",
+        "column": null,
+        "byline": "By Peter Keepnews",
+        "type": "Article",
+        "title": "Harry Belafonte, 96, Dies; Barrier-Breaking Singer, Actor and Activist",
+        "abstract": "In the 1950s, when segregation was still widespread, his ascent to the upper echelon of show business was historic. But his primary focus was civil rights.",
+        "des_facet": ["Folk Music", "Pop and Rock Music", "Black People", "Race and Ethnicity", "Movies", "Actors and Actresses", "Civil Rights Movement (1954-68)", "Deaths (Obituaries)"],
+        "org_facet": [],
+        "per_facet": ["Belafonte, Harry"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Harry Belafonte was not the first Black entertainer to transcend racial boundaries, but none had made as much of a splash as he did. For a few years no one in music, Black or white, was bigger. Above, the singer in 1957.",
+            "copyright": "Bob Henriques/Magnum Photos",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2018/01/17/obituaries/00belafonte2/00belafonte2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2018/01/17/obituaries/00belafonte2/00belafonte2-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2018/01/17/obituaries/00belafonte2/00belafonte2-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/aa107e59-082f-5385-9928-9cb68684268e",
+        "url": "https://www.nytimes.com/2023/04/27/us/carolyn-bryant-donham-dead.html",
+        "id": 100000006783694,
+        "asset_id": 100000006783694,
+        "source": "New York Times",
+        "published_date": "2023-04-27",
+        "updated": "2023-04-28 02:11:22",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Civil Rights Movement (1954-68);Murders, Attempted Murders and Homicides;Deaths (Obituaries);Donham, Carolyn Bryant;Till, Emmett Louis;Mississippi",
+        "column": null,
+        "byline": "By Margalit Fox",
+        "type": "Article",
+        "title": "Carolyn Bryant Donham Dies at 88; Her Words Doomed Emmett Till",
+        "abstract": "She accused Emmett, 14, of accosting her, and her testimony led to the acquittals of her husband and his half brother in a murder that helped galvanize the civil rights movement.",
+        "des_facet": ["Civil Rights Movement (1954-68)", "Murders, Attempted Murders and Homicides", "Deaths (Obituaries)"],
+        "org_facet": [],
+        "per_facet": ["Donham, Carolyn Bryant", "Till, Emmett Louis"],
+        "geo_facet": ["Mississippi"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Carolyn Bryant with her husband, Roy Bryant, and their children during his trial in 1955.",
+            "copyright": "Ed Clark/The LIFE Picture Collection, via Shutterstock",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/28Bryant-print-1/28Bryant-print-1-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/28Bryant-print-1/27Bryant1-sub-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/obituaries/28Bryant-print-1/27Bryant1-sub-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/937619fa-3d08-59ec-bce9-52dfa8b454af",
+        "url": "https://www.nytimes.com/2023/04/25/us/politics/biden-running-2024-president.html",
+        "id": 100000008705189,
+        "asset_id": 100000008705189,
+        "source": "New York Times",
+        "published_date": "2023-04-25",
+        "updated": "2023-04-26 09:04:46",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Biden, Joseph R Jr;Democratic Party",
+        "column": null,
+        "byline": "By Peter Baker",
+        "type": "Article",
+        "title": "Biden Announces Re-election Bid, Defying Trump and History",
+        "abstract": "While the president once pitched himself as “a bridge” to a new generation of Democratic leaders, he has decided that he is not ready to turn the torch over yet.",
+        "des_facet": ["Presidential Election of 2024", "United States Politics and Government"],
+        "org_facet": ["Democratic Party"],
+        "per_facet": ["Biden, Joseph R Jr"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Biden is already the oldest president in American history and, if he were to win again, he would be 86 at the end of a second term.",
+            "copyright": "Doug Mills/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00dc-biden-announces-gzhb/00dc-biden-announces-gzhb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00dc-biden-announces-gzhb/00dc-biden-announces-gzhb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00dc-biden-announces-gzhb/00dc-biden-announces-gzhb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/45f5b6cb-10f1-5518-92c7-fba6829562f9",
+        "url": "https://www.nytimes.com/2023/04/26/business/disney-desantis-board-florida.html",
+        "id": 100000008875065,
+        "asset_id": 100000008875065,
+        "source": "New York Times",
+        "published_date": "2023-04-26",
+        "updated": "2023-04-27 09:48:18",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Amusement and Theme Parks;Freedom of Speech and Expression;Suits and Litigation (Civil);Politics and Government;Governors (US);Iger, Robert A;DeSantis, Ron;Disney, Walt, World (Lake Buena Vista, Fla);Walt Disney Company;Florida;Orlando (Fla)",
+        "column": null,
+        "byline": "By Brooks Barnes",
+        "type": "Article",
+        "title": "Disney Sues DeSantis Over Control of Its Florida Resort",
+        "abstract": "The company claimed “a targeted campaign of government retaliation,” which it said stemmed from its criticism of a contentious state education law.",
+        "des_facet": ["Amusement and Theme Parks", "Freedom of Speech and Expression", "Suits and Litigation (Civil)", "Politics and Government", "Governors (US)"],
+        "org_facet": ["Disney, Walt, World (Lake Buena Vista, Fla)", "Walt Disney Company"],
+        "per_facet": ["Iger, Robert A", "DeSantis, Ron"],
+        "geo_facet": ["Florida", "Orlando (Fla)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Gov. Ron DeSantis has been looking for ways to end Disney’s long-held ability to control the development of its Florida theme parks.",
+            "copyright": "Ted Shaffrey/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26DISNEY-DESANTIS-1-gwfl/26DISNEY-DESANTIS-1-gwfl-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26DISNEY-DESANTIS-1-gwfl/26DISNEY-DESANTIS-1-gwfl-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/26/multimedia/26DISNEY-DESANTIS-1-gwfl/26DISNEY-DESANTIS-1-gwfl-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/fb13f026-9242-5121-be44-01bb1ada38a0",
+        "url": "https://www.nytimes.com/2023/04/27/us/politics/pence-grand-jury-trump.html",
+        "id": 100000008873861,
+        "asset_id": 100000008873861,
+        "source": "New York Times",
+        "published_date": "2023-04-27",
+        "updated": "2023-04-28 08:49:29",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Special Prosecutors (Independent Counsel);Presidential Election of 2020;Storming of the US Capitol (Jan, 2021);United States Politics and Government;Pence, Mike;Smith, Jack (Attorney);Trump, Donald J;Eastman, John C;Justice Department",
+        "column": null,
+        "byline": "By Maggie Haberman",
+        "type": "Article",
+        "title": "Pence Appears Before Grand Jury on Trump’s Efforts to Retain Power",
+        "abstract": "The former vice president is a key witness to former President Donald Trump’s attempts to block congressional certification of Joseph Biden’s victory in the 2020 election.",
+        "des_facet": ["Special Prosecutors (Independent Counsel)", "Presidential Election of 2020", "Storming of the US Capitol (Jan, 2021)", "United States Politics and Government"],
+        "org_facet": ["Justice Department"],
+        "per_facet": ["Pence, Mike", "Smith, Jack (Attorney)", "Trump, Donald J", "Eastman, John C"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former Vice President Mike Pence is a potential rival to former President Donald J. Trump for the 2024 Republican presidential nomination.",
+            "copyright": "Hiroko Masuike/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/25DC-PENCE-jcml/25DC-PENCE-jcml-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/25DC-PENCE-jcml/25DC-PENCE-jcml-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/25/multimedia/25DC-PENCE-jcml/25DC-PENCE-jcml-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/056e1681-9959-51ec-82c7-b490dde66099",
+        "url": "https://www.nytimes.com/article/best-books.html",
+        "id": 100000008742189,
+        "asset_id": 100000008742189,
+        "source": "New York Times",
+        "published_date": "2023-04-16",
+        "updated": "2023-04-16 06:54:13",
+        "section": "Books",
+        "subsection": "",
+        "nytdsection": "books",
+        "adx_keywords": "Books and Literature;Content Type: Service",
+        "column": null,
+        "byline": "By The New York Times Books Staff",
+        "type": "Article",
+        "title": "12 Books You Should Be Reading Right Now",
+        "abstract": "Finding a book you’ll love can be daunting. Let us help.",
+        "des_facet": ["Books and Literature", "Content Type: Service"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/12/books/review/00WhatToReadNow-PLACEHOLDER/00WhatToReadNow-PLACEHOLDER-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/12/books/review/00WhatToReadNow-PLACEHOLDER/00WhatToReadNow-PLACEHOLDER-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/12/books/review/00WhatToReadNow-PLACEHOLDER/00WhatToReadNow-PLACEHOLDER-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/bb7ae3c3-4873-52db-b819-499322d534a5",
+        "url": "https://www.nytimes.com/2023/04/21/us/politics/jack-teixeira-leaks-russia-ukraine.html",
+        "id": 100000008870102,
+        "asset_id": 100000008870102,
+        "source": "New York Times",
+        "published_date": "2023-04-21",
+        "updated": "2023-04-22 11:01:42",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "your-feed-visual-investigations;US Intelligence Documents Leak (2023);United States Defense and Military Forces;Russian Invasion of Ukraine (2022);Social Media;Teixeira, Jack;Discord Inc;Russia;Ukraine",
+        "column": null,
+        "byline": "By Aric Toler, Malachy Browne and Julian E. Barnes",
+        "type": "Article",
+        "title": "Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known",
+        "abstract": "A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.",
+        "des_facet": ["your-feed-visual-investigations", "US Intelligence Documents Leak (2023)", "United States Defense and Military Forces", "Russian Invasion of Ukraine (2022)", "Social Media"],
+        "org_facet": ["Discord Inc"],
+        "per_facet": ["Teixeira, Jack"],
+        "geo_facet": ["Russia", "Ukraine"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The first leak to Discord appeared to come less than 48 hours into Russia’s invasion of Ukraine in February 2022.",
+            "copyright": "Tyler Hicks/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/52498778-c3cc-5f9a-afb6-9f217abe6b06",
+        "url": "https://www.nytimes.com/2023/04/22/theater/barry-humphries-dead.html",
+        "id": 100000006701151,
+        "asset_id": 100000006701151,
+        "source": "New York Times",
+        "published_date": "2023-04-22",
+        "updated": "2023-04-23 11:17:16",
+        "section": "Theater",
+        "subsection": "",
+        "nytdsection": "theater",
+        "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Comedy and Humor;Theater;Television;Humphries, Barry;Australia",
+        "column": null,
+        "byline": "By Margalit Fox",
+        "type": "Article",
+        "title": "Barry Humphries (Dame Edna to You, Possums) Is Dead at 89",
+        "abstract": "Bewigged, bejeweled and bejowled, Mr. Humphries’s creation was one of the longest-lived characters ever channeled by a single performer.",
+        "des_facet": ["Deaths (Obituaries)", "Actors and Actresses", "Comedy and Humor", "Theater", "Television"],
+        "org_facet": [],
+        "per_facet": ["Humphries, Barry"],
+        "geo_facet": ["Australia"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Barry Humphries as Dame Edna Everage in the one-person show “Dame Edna: Back With a Vengeance” at the Music Box Theater on Broadway in 2004.",
+            "copyright": "Sara Krulwich/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/24287a77-ed88-5dac-aad2-e6753cf92510",
+        "url": "https://www.nytimes.com/2023/04/28/us/north-carolina-supreme-court-gerrymander.html",
+        "id": 100000008829278,
+        "asset_id": 100000008829278,
+        "source": "New York Times",
+        "published_date": "2023-04-28",
+        "updated": "2023-04-28 23:17:54",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "State Legislatures;Supreme Courts (State);Redistricting and Reapportionment;Elections, Courts and the Judiciary;Decisions and Verdicts;Democratic Party;Republican Party;House of Representatives;North Carolina",
+        "column": null,
+        "byline": "By Michael Wines",
+        "type": "Article",
+        "title": "North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally",
+        "abstract": "When it had a Democratic majority last year, the North Carolina Supreme Court voided the state’s legislative and congressional maps as illegal gerrymanders. Now the court has a Republican majority, and says the opposite.",
+        "des_facet": ["State Legislatures", "Supreme Courts (State)", "Redistricting and Reapportionment", "Elections, Courts and the Judiciary", "Decisions and Verdicts"],
+        "org_facet": ["Democratic Party", "Republican Party", "House of Representatives"],
+        "per_facet": [],
+        "geo_facet": ["North Carolina"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The North Carolina Supreme Court reversed itself on Friday on a key voting rights case after its majority flipped from Democratic to Republican.",
+            "copyright": "Sean Rayford/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/28/multimedia/28nat-carolina-map-kwhv/28nat-carolina-map-kwhv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/multimedia/28nat-carolina-map-kwhv/28nat-carolina-map-kwhv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/28/multimedia/28nat-carolina-map-kwhv/28nat-carolina-map-kwhv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/62446a09-6bf8-5d35-8518-9a6c2ce2bfe0",
+        "url": "https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news-dismissed-controversy.html",
+        "id": 100000008873312,
+        "asset_id": 100000008873312,
+        "source": "New York Times",
+        "published_date": "2023-04-24",
+        "updated": "2023-04-25 07:10:00",
+        "section": "Business",
+        "subsection": "Media",
+        "nytdsection": "business",
+        "adx_keywords": "Project Democracy;News and News Media;Cable Television;Appointments and Executive Changes;Right-Wing Extremism and Alt-Right;Conspiracy Theories;Carlson, Tucker;Fox News Channel",
+        "column": null,
+        "byline": "By Nicholas Confessore",
+        "type": "Article",
+        "title": "What Tucker Carlson Leaves Behind as He Is Shown the Door",
+        "abstract": "The host’s abrupt dismissal upends Fox News’s prime-time lineup — and the carefully honed impression that the ratings star was all but untouchable.",
+        "des_facet": ["Project Democracy", "News and News Media", "Cable Television", "Appointments and Executive Changes", "Right-Wing Extremism and Alt-Right", "Conspiracy Theories"],
+        "org_facet": ["Fox News Channel"],
+        "per_facet": ["Carlson, Tucker"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tucker Carlson has weathered one controversy after another in his years at Fox. On Monday, the network announced that it was cutting ties with him.",
+            "copyright": "Leigh Vogel for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24tucker-arc--hbtm/24tucker-arc--hbtm-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24tucker-arc--hbtm/24tucker-arc--hbtm-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24tucker-arc--hbtm/24tucker-arc--hbtm-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/f77787f2-7d76-53d1-b86d-5b8b7507f326",
+        "url": "https://www.nytimes.com/2023/04/23/world/europe/barlocco-island-scotland-sale.html",
+        "id": 100000008870958,
+        "asset_id": 100000008870958,
+        "source": "New York Times",
+        "published_date": "2023-04-23",
+        "updated": "2023-04-25 23:34:04",
+        "section": "World",
+        "subsection": "Europe",
+        "nytdsection": "world",
+        "adx_keywords": "Islands;Land Use Policies;Real Estate and Housing (Residential);Rural Areas;Scotland;Barlocco Island (Scotland)",
+        "column": null,
+        "byline": "By Remy Tumin",
+        "type": "Article",
+        "title": "Scottish Island for Sale, Amenities Not Included",
+        "abstract": "Reaching Barlocco Island is challenging, and staying there for any length of time even more so. Still, dozens are vying for the 25 acres of nature.",
+        "des_facet": ["Islands", "Land Use Policies", "Real Estate and Housing (Residential)", "Rural Areas"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Scotland", "Barlocco Island (Scotland)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Barlocco Island, in the county of Dumfries and Galloway, is the latest Scottish island to hit the market.",
+            "copyright": "Gary Cook/Alamy Stock Photo",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/22/lens/22xp-scottishisland-02/22xp-scottishisland-02-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/22/lens/22xp-scottishisland-02/22xp-scottishisland-02-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/22/lens/22xp-scottishisland-02/22xp-scottishisland-02-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/3a1176ec-c686-5466-91be-868d4173943a",
+        "url": "https://www.nytimes.com/2023/03/20/well/colon-colorectal-cancer-symptoms-screening.html",
+        "id": 100000008802332,
+        "asset_id": 100000008802332,
+        "source": "New York Times",
+        "published_date": "2023-03-20",
+        "updated": "2023-04-24 04:19:07",
+        "section": "Well",
+        "subsection": "",
+        "nytdsection": "well",
+        "adx_keywords": "Colon and Colorectal Cancer;Cancer;Colon;Research;Colonoscopy;Content Type: Service;Age, Chronological",
+        "column": null,
+        "byline": "By Trisha Pasricha",
+        "type": "Article",
+        "title": "Colon Cancer Is Rising Among Younger Adults. Here’s What to Know.",
+        "abstract": "With cases projected to continue climbing through 2023, scientists are racing to understand why.",
+        "des_facet": ["Colon and Colorectal Cancer", "Cancer", "Colon", "Research", "Colonoscopy", "Content Type: Service", "Age, Chronological"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Eiko Ojala",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/ec79a742-93b2-568b-a9ee-53941c9fd25a",
+        "url": "https://www.nytimes.com/2023/04/27/us/politics/jack-teixeira-leaks.html",
+        "id": 100000008876149,
+        "asset_id": 100000008876149,
+        "source": "New York Times",
+        "published_date": "2023-04-27",
+        "updated": "2023-04-28 11:12:34",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "US Intelligence Documents Leak (2023);Classified Information and State Secrets;Espionage and Intelligence Services;United States Politics and Government;Teixeira, Jack;Justice Department",
+        "column": null,
+        "byline": "By Glenn Thrush",
+        "type": "Article",
+        "title": "Airman Accused of Leak Has History of Racist and Violent Remarks, Filing Says",
+        "abstract": "Prosecutors accused Jack Teixeira of trying to cover up his actions and described a possible propensity toward violence.",
+        "des_facet": ["US Intelligence Documents Leak (2023)", "Classified Information and State Secrets", "Espionage and Intelligence Services", "United States Politics and Government"],
+        "org_facet": ["Justice Department"],
+        "per_facet": ["Teixeira, Jack"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Prosecutors’ filing cast Airman Teixeira’s actions, which had previously been seen as mainly motivated by his desire to show off to younger friends online, in a somewhat darker light.",
+            "copyright": "via Reuters",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/05/22/multimedia/22dc-leaks-01-hfbj/22dc-leaks-01-hfbj-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/05/22/multimedia/22dc-leaks-01-hfbj/22dc-leaks-01-hfbj-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/05/22/multimedia/22dc-leaks-01-hfbj/22dc-leaks-01-hfbj-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/f8f66413-adf5-5f76-9e65-42c482afdd36",
+        "url": "https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html",
+        "id": 100000008857080,
+        "asset_id": 100000008857080,
+        "source": "New York Times",
+        "published_date": "2023-04-24",
+        "updated": "2023-04-24 16:13:13",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Telecommuting;Labor and Jobs;Work-Life Balance;Workplace Environment;Hiring and Promotion;Coronavirus Return to Office;Careers and Professions;Engineering and Engineers;Research;internal-sub-only",
+        "column": null,
+        "byline": "By Emma Goldberg and Ben Casselman",
+        "type": "Article",
+        "title": "What Young Workers Miss Without the ‘Power of Proximity’",
+        "abstract": "One of the first major studies on remote work shows a hidden penalty of flexibility: less supervision.",
+        "des_facet": ["Telecommuting", "Labor and Jobs", "Work-Life Balance", "Workplace Environment", "Hiring and Promotion", "Coronavirus Return to Office", "Careers and Professions", "Engineering and Engineers", "Research", "internal-sub-only"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Verkada has called its workers back into the office five days a week.",
+            "copyright": "Aaron Wojack for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2023/04/22/multimedia/00RemotePenalties-lede-kmjg/00RemotePenalties-lede-kmjg-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/22/multimedia/00RemotePenalties-lede-kmjg/00RemotePenalties-lede-kmjg-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2023/04/22/multimedia/00RemotePenalties-lede-kmjg/00RemotePenalties-lede-kmjg-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }]
+}
