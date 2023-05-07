@@ -79,8 +79,8 @@
                                                         </userDefinedRuntimeAttribute>
                                                     </userDefinedRuntimeAttributes>
                                                 </imageView>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="chevron.forward" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Vg4-lM-f06">
-                                                    <rect key="frame" x="404" y="56" width="10" height="9"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="chevron.forward" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Vg4-lM-f06">
+                                                    <rect key="frame" x="404" y="47" width="10" height="16.5"/>
                                                     <color key="tintColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="10" id="m0m-KU-lud"/>
@@ -95,6 +95,7 @@
                                                 <constraint firstAttribute="trailing" secondItem="kIc-JW-oC4" secondAttribute="trailing" constant="84" id="9na-16-Z37"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="kIc-JW-oC4" secondAttribute="bottom" constant="-2" id="GBM-70-mCK"/>
                                                 <constraint firstItem="kIc-JW-oC4" firstAttribute="top" secondItem="vc0-v1-BI8" secondAttribute="bottom" constant="9" id="GbV-ZN-RcJ"/>
+                                                <constraint firstItem="Vg4-lM-f06" firstAttribute="top" secondItem="mhI-fF-nJX" secondAttribute="top" constant="45" id="JzJ-2P-XVh"/>
                                                 <constraint firstItem="d37-bG-kRr" firstAttribute="top" secondItem="vc0-v1-BI8" secondAttribute="bottom" constant="8" symbolic="YES" id="VgV-Xb-fmZ"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="d37-bG-kRr" secondAttribute="bottom" constant="-1" id="YxV-ix-Nfl"/>
                                                 <constraint firstItem="lzF-Sa-XYi" firstAttribute="top" secondItem="mhI-fF-nJX" secondAttribute="topMargin" constant="5" id="nja-fT-fl6"/>
@@ -211,7 +212,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="calendar" catalog="system" width="128" height="106"/>
+        <image name="calendar" catalog="system" width="32" height="32"/>
         <image name="chevron.forward" catalog="system" width="96" height="128"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
