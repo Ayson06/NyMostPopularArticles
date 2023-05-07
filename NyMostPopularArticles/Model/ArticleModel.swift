@@ -40,7 +40,9 @@ public struct Media {
         mediaMetadata = try values.decode([MediaMetadata].self, forKey: .mediaMetadata)
         
     }
-    
+    public func getUrlIcon() -> String{
+        return (mediaMetadata.first?.url)!
+    }
 }
 
 extension Media: Codable {}

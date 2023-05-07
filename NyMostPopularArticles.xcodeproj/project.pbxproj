@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E7193E3A29FF76EA00D9D21E /* ArticleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7193E3929FF76EA00D9D21E /* ArticleViewModel.swift */; };
 		E742BD4F29FEB542003AC82D /* RemoteArticleLoaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E742BD4E29FEB542003AC82D /* RemoteArticleLoaderTests.swift */; };
 		E742BD5129FEB843003AC82D /* URLSessionHTTPClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E742BD5029FEB843003AC82D /* URLSessionHTTPClientTests.swift */; };
 		E742BD5629FECC70003AC82D /* Helpers_For_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E742BD5529FECC70003AC82D /* Helpers_For_Tests.swift */; };
@@ -82,7 +81,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E7193E3929FF76EA00D9D21E /* ArticleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModel.swift; sourceTree = "<group>"; };
 		E742BD4E29FEB542003AC82D /* RemoteArticleLoaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteArticleLoaderTests.swift; sourceTree = "<group>"; };
 		E742BD5029FEB843003AC82D /* URLSessionHTTPClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionHTTPClientTests.swift; sourceTree = "<group>"; };
 		E742BD5529FECC70003AC82D /* Helpers_For_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers_For_Tests.swift; sourceTree = "<group>"; };
@@ -154,14 +152,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E7193E3829FF748E00D9D21E /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				E7193E3929FF76EA00D9D21E /* ArticleViewModel.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		E742BD5229FEBA7D003AC82D /* Controller */ = {
 			isa = PBXGroup;
 			children = (
@@ -254,7 +244,6 @@
 		E79908A229FD3C7300517080 /* NyMostPopularArticlesiOS */ = {
 			isa = PBXGroup;
 			children = (
-				E7193E3829FF748E00D9D21E /* Model */,
 				E742BD5929FEFA9B003AC82D /* View */,
 				E742BD5229FEBA7D003AC82D /* Controller */,
 				E79908A329FD3C7300517080 /* AppDelegate.swift */,
@@ -524,7 +513,6 @@
 				E79908A829FD3C7300517080 /* ArticlesViewController.swift in Sources */,
 				E79908A429FD3C7300517080 /* AppDelegate.swift in Sources */,
 				E79908ED29FDBA1E00517080 /* UIImageView.swift in Sources */,
-				E7193E3A29FF76EA00D9D21E /* ArticleViewModel.swift in Sources */,
 				E79908A629FD3C7300517080 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -812,6 +800,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LH43G94585;
@@ -840,6 +829,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LH43G94585;

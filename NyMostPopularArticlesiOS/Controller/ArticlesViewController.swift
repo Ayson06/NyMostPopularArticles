@@ -13,10 +13,10 @@ import NyMostPopularArticles
 class ArticlesViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
     let loader = RemoteArticleFeedLoader()
-    var tableModel = [ArticleViewModel]()
+    var tableModel = [ArticleModel]()
     let articleCellId = "articleCell"
     let articleDetailsId = "articleDetailsView"
-    var selectedArticle: ArticleViewModel!
+    var selectedArticle: ArticleModel!
     let refreshControl = UIRefreshControl()
 
     @IBOutlet weak var articlesTableView: UITableView!
@@ -81,7 +81,7 @@ class ArticlesViewController: UIViewController, UITableViewDelegate, UITableView
             print(result)
             switch result {
                     case .success(let results):
-                        self?.setResults(results: results)
+                        self?.tableModel = results
                         DispatchQueue.main.async {
                             self?.articlesTableView.reloadData()
                             self?.refreshControl.endRefreshing()
@@ -93,12 +93,12 @@ class ArticlesViewController: UIViewController, UITableViewDelegate, UITableView
         }
     }
     
-    func setResults(results : [ArticleModel]) -> Void {
+    /*func setResults(results : [ArticleModel]) -> Void {
         for result in results {
             let model = ArticleViewModel(title: result.title, byline: result.byline, published_date: result.published_date, abstract: result.abstract, iconeUrlImageArticle: result.media.first?.mediaMetadata.first?.url! ?? "", urlImageArticle: result.media.first?.mediaMetadata.first?.url! ?? "")
             self.tableModel.append(model)
         }
-    }
+    }*/
     
     // MARK : - TableView
     
@@ -117,7 +117,11 @@ class ArticlesViewController: UIViewController, UITableViewDelegate, UITableView
         cell.articleTitle.text = cellModel.title
         cell.bylineArticle.text = cellModel.byline
         cell.publishedDateArticle.text = cellModel.published_date
-        cell.articleImageView.load(url: URL(string: cellModel.iconeUrlImageArticle)!)
+        let iconeImage = cellModel.media.first?.mediaMetadata.first?.url ?? ""
+        if(iconeImage != ""){
+            cell.articleImageView.load(url: URL(string: iconeImage)!)
+        }
+        
 
 
         return cell

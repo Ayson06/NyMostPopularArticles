@@ -14,12 +14,16 @@ class DetailsArticleViewController: UIViewController {
     @IBOutlet weak var articleTitle: UILabel!
     @IBOutlet weak var articleImageView: UIImageView!
     
-    var articleModel: ArticleViewModel!
+    var articleModel: ArticleModel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        articleImageView.load(url: URL(string: articleModel.urlImageArticle)!)
+        let urlImage = articleModel.media.first?.mediaMetadata.first?.url ?? ""
+        if(urlImage != ""){
+            articleImageView.load(url: URL(string: urlImage)!)
+            
+        }
         
         articleTitle.text = self.articleModel.title
         
