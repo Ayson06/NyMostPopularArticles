@@ -19,19 +19,33 @@
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="100" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="vd6-Oa-zf7">
                                 <rect key="frame" x="0.0" y="88" width="414" height="774"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <view key="tableHeaderView" contentMode="scaleToFill" id="OBR-C2-XNO">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="16"/>
+                                <view key="tableHeaderView" contentMode="scaleToFill" id="YyN-Bm-v1z" userLabel="searchView">
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <subviews>
+                                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" clearButtonMode="always" translatesAutoresizingMaskIntoConstraints="NO" id="WdJ-4N-Nof">
+                                            <rect key="frame" x="15" y="10" width="384" height="30"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                            <textInputTraits key="textInputTraits" returnKeyType="done"/>
+                                        </textField>
+                                    </subviews>
                                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                    <constraints>
+                                        <constraint firstItem="WdJ-4N-Nof" firstAttribute="leading" secondItem="YyN-Bm-v1z" secondAttribute="leading" constant="15" id="6vD-r6-mIQ"/>
+                                        <constraint firstItem="WdJ-4N-Nof" firstAttribute="top" secondItem="YyN-Bm-v1z" secondAttribute="top" constant="10" id="Z2u-V7-Xcm"/>
+                                        <constraint firstAttribute="bottom" secondItem="WdJ-4N-Nof" secondAttribute="bottom" constant="10" id="ob5-jK-do7"/>
+                                        <constraint firstAttribute="trailing" secondItem="WdJ-4N-Nof" secondAttribute="trailing" constant="15" id="tVH-cn-7Ns"/>
+                                        <constraint firstAttribute="height" constant="50" id="yo5-lf-YQ3"/>
+                                    </constraints>
                                 </view>
                                 <view key="tableFooterView" contentMode="scaleToFill" id="cxI-Qv-6dM">
-                                    <rect key="frame" x="0.0" y="183" width="414" height="16"/>
+                                    <rect key="frame" x="0.0" y="217" width="414" height="16"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 </view>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="articleCell" rowHeight="100" id="JBc-ge-FxY" customClass="ArticleTableViewCell" customModule="NyMostPopularArticlesiOS" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="60.5" width="414" height="100"/>
+                                        <rect key="frame" x="0.0" y="94.5" width="414" height="100"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="JBc-ge-FxY" id="mhI-fF-nJX">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="100"/>
@@ -132,6 +146,9 @@
                     <navigationItem key="navigationItem" title="NY Times Most Popular" id="FQK-cu-vZM"/>
                     <connections>
                         <outlet property="articlesTableView" destination="vd6-Oa-zf7" id="U3s-J0-6Mm"/>
+                        <outlet property="searchTextField" destination="WdJ-4N-Nof" id="8It-az-0jy"/>
+                        <outlet property="searchView" destination="YyN-Bm-v1z" id="xr3-Z1-kyc"/>
+                        <outlet property="searchViewHeightConstraint" destination="yo5-lf-YQ3" id="7Eg-oQ-F5n"/>
                         <segue destination="iRT-HN-HQZ" kind="show" identifier="articleDetailsView" id="nSD-kR-qBF"/>
                     </connections>
                 </viewController>

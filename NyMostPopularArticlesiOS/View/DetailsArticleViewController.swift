@@ -19,9 +19,9 @@ class DetailsArticleViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let urlImage = articleModel.media.first?.mediaMetadata.first?.url ?? ""
-        if(urlImage != ""){
-            articleImageView.load(url: URL(string: urlImage)!)
+        var urlImage = articleModel.media.first?.getUrlMediumImage()
+        if(urlImage != "" && urlImage != nil){
+            articleImageView.load(url: URL(string: urlImage!)!)
             
         }
         

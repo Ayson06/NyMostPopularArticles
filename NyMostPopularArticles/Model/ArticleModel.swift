@@ -41,7 +41,14 @@ public struct Media {
         
     }
     public func getUrlIcon() -> String{
-        return (mediaMetadata.first?.url)!
+        return mediaMetadata.filter{
+            $0.format == "Standard Thumbnail"
+        }.first?.url ?? ""
+    }
+    public func getUrlMediumImage() -> String{
+        return mediaMetadata.filter{
+            $0.format == "mediumThreeByTwo440"
+        }.first?.url ?? ""
     }
 }
 
